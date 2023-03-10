@@ -1,0 +1,64 @@
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:16:38 GMT] "GET / HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:16:39 GMT] "GET /js/image-test.js HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:16:39 GMT] "GET /images/sushi.jpg HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:16:39 GMT] "GET /favicon.ico HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:20:57 GMT] "GET / HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:20:57 GMT] "GET /js/image-test.js HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:20:57 GMT] "GET /images/sushi.jpg HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:20:57 GMT] "GET /favicon.ico HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:21:03 GMT] "GET /protected/ HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:21:03 GMT] "GET /favicon.ico HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:21:06 GMT] "GET /test/1.json HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:21:06 GMT] "GET /test/2.json HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:21:06 GMT] "GET /test/3.json HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:21:06 GMT] "GET /test/4.json HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:21:06 GMT] "GET /test/5.json HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:21:06 GMT] "GET /test/6.json HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:21:07 GMT] "GET /test/8.json HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:21:07 GMT] "GET /test/10.json HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:21:07 GMT] "GET /test/7.json HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:21:07 GMT] "GET /images/really-big-image.png HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:21:07 GMT] "GET /test/9.json HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:22:19 GMT] "GET / HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:22:19 GMT] "GET /js/image-test.js HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:22:19 GMT] "GET /images/sushi.jpg HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:25:36 GMT] "GET / HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:25:37 GMT] "GET /js/image-test.js HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:25:37 GMT] "GET /images/sushi.jpg HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:25:37 GMT] "GET /favicon.ico HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:25:38 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:25:56 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:26:32 GMT] "￿" 400
+
+0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:26:32 GMT] "￿" 400
+

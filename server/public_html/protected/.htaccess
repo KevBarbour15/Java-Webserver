@@ -1,0 +1,4 @@
+AuthUserFile /Users/kevinbarbour/Documents/GitHub/webserver-team-real-effort/server/public_html/protected/.htpasswd
+AuthType Basic
+AuthName "I Challenge You"
+Require valid-user
