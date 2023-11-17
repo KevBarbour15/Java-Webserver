@@ -1,0 +1,52 @@
+
+*** Introduction *** 
+
+This Java Web Server is a lightweight, configurable server designed to handle HTTP requests.
+ It's built using Java with customizability and ease of use in mind. This server parses configuration 
+ and MIME type files to dynamically handle requests.
+
+*** Requirements ***
+
+Java (recommended version: Java 11 or higher)
+Any additional libraries (if used) should be listed here
+Installation
+
+Clone or download the source code from the repository.
+Navigate to the directory containing WebServer.java.
+
+*** Configuration ***
+
+***IMPORTANT***
+Before running the server, ensure that you have configured the following:
+
+Edit the httpd.conf file to set server configurations like port, document root, etc. Absolute paths to
+these files on your system are a must or it will not run. Additionally, navigate to the protected file 
+.../server/public_html/protected/ and change the AuthUserFile in the .htaccess file to the absolute path 
+of the .htpasswd file. 
+
+The username/password for the protected page:
+username: nuggets
+password: champs2023!
+
+*** Running The Server *** 
+
+Navigate to the root folder and compile the server code using the Java compiler:
+
+```javac WebServer.java```
+
+Start the server with:
+
+```java WebServer```
+
+In the terminal you should see "Starting WebServer" 
+
+After starting the server, you can navigate to localhost:8096 (or the configured port in the 
+httpd.conf file) in your web browser to access the server.
+
+From there you should see random various tests to ensure that the server works as designed.
+
+To stop the server, hit control + c. 
+
+To delete all the classes type in the terminal: 
+```find . -name "*.class" -type f -delete```
+

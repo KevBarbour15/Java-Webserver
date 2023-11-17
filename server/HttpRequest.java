@@ -21,10 +21,11 @@ public class HttpRequest {
     requestMethods.add("DELETE");
   }
 
-  public String getNoArgsPath(){
-    if(hasArgs)
-    return absolutePath.substring(0, absolutePath.indexOf('?'));  
-    else return getAbsolutePath(); 
+  public String getNoArgsPath() {
+    if (hasArgs)
+      return absolutePath.substring(0, absolutePath.indexOf('?'));
+    else
+      return getAbsolutePath();
   }
 
   public boolean isValidRequest() {
@@ -175,11 +176,11 @@ public class HttpRequest {
   public void setUser() {
     String tempRequestString = requestString;
     String[] tempReqBodyArr = tempRequestString.split("\n");
-  
+
     for (int i = 0; i < tempReqBodyArr.length; i++) {
       String tempLine = tempReqBodyArr[i];
       String[] tempLineArr = tempLine.split(":");
-      if(tempLineArr[0].equals("User-Agent")){
+      if (tempLineArr[0].equals("User-Agent")) {
         this.user = tempLineArr[1];
         break;
       }

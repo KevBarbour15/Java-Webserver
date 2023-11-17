@@ -48,7 +48,7 @@ public class RequestHandler implements Runnable {
     String documentPath = httpConf.getDocumentRoot();
 
     if (request.isValidRequest()) {
-      
+
       documentPath += request.getAbsolutePath();
       MimeTypesParser mtParser = new MimeTypesParser();
 

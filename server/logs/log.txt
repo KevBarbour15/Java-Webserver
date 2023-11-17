@@ -1,350 +1,0 @@
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:13:47 GMT] "GET / HTTP/1.1" 200
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:13:47 GMT] "GET /js/image-test.js HTTP/1.1" 200
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:13:47 GMT] "GET /images/sushi.jpg HTTP/1.1" 200
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:13:47 GMT] "GET /favicon.ico HTTP/1.1" 200
-127.0.0.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:23:39 GMT] "GET / HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:23:39 GMT] "GET /js/image-test.js HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:23:39 GMT] "GET /images/sushi.jpg HTTP/1.1" 200
-
-127.0.0.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:23:39 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:23:40 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:23:41 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:24:08 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 404
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:25:26 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 404
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:26:54 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 404
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:27:11 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 404
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:27:42 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 404
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:29:41 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 404
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:30:27 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 404
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:31:30 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:31:30 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:32:58 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 404
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:33:27 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 404
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:33:47 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 404
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:33:49 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 404
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:33:50 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 404
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:33:58 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 404
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:34:27 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 500
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:34:53 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 404
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:35:46 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 404
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:36:11 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 404
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:42:11 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 404
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:42:52 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:42:52 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:43:41 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:43:41 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:44:46 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:44:46 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:45:22 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:48:07 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:48:50 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:49:07 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:49:08 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:49:18 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:49:18 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:49:24 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 02:49:25 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1null[Date: Mon, 26 Sep 2022 02:49:53 GMT] "￿" 400
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 02:49:53 GMT] "POST /cgi-bin/perl_env?a=b&c=d&d=e HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:06:15 GMT] "GET / HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:06:15 GMT] "GET /js/image-test.js HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:06:15 GMT] "GET /images/sushi.jpg HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:06:16 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:14:25 GMT] "GET / HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:14:25 GMT] "GET /js/image-test.js HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:14:25 GMT] "GET /images/sushi.jpg HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:14:26 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:20:53 GMT] "GET / HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:20:53 GMT] "GET /js/image-test.js HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:20:53 GMT] "GET /images/sushi.jpg HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:20:53 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:21:49 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:21:49 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:21:56 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:22:01 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1null[Date: Mon, 26 Sep 2022 03:22:52 GMT] "￿" 400
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 03:22:52 GMT] "POST /cgi-bin/perl_env?a=b&c=d&d=e HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 03:23:17 GMT] "￿" 400
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 03:23:17 GMT] "POST /cgi-bin/perl_env?cake=b&c=d&d=e HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:25:16 GMT] "GET / HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:25:16 GMT] "GET /js/image-test.js HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:25:16 GMT] "GET /images/sushi.jpg HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:25:16 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:25:24 GMT] "￿" 400
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 03:25:24 GMT] "POST /cgi-bin/perl_env?cake=b&c=d&d=e HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1null[Date: Mon, 26 Sep 2022 03:25:40 GMT] "￿" 400
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 03:25:40 GMT] "POST /cgi-bin/perl_env?cake=b&c=d&d=e HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:29:55 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 03:29:55 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1null[Date: Mon, 26 Sep 2022 04:04:10 GMT] "￿" 400
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:04:11 GMT] "PUT /?thing=here HTTP/1.1" 500
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:04:16 GMT] "￿" 400
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:04:16 GMT] "PUT /?thing=here HTTP/1.1" 500
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:15:55 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:15:55 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:16:41 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:16:41 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:16:50 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:16:50 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:16:52 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:16:52 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:17:27 GMT] "GET /cgi-bin/perl_env?a=b HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:17:28 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:17:50 GMT] "GET /cgi-bin/perl_env? HTTP/1.1" 404
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:17:55 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:17:55 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:18:16 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:18:16 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:18:53 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:18:53 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:19:09 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:19:09 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:19:11 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:19:12 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:19:12 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:19:12 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:19:26 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:19:27 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:19:59 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:19:59 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:20:03 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:20:03 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:20:05 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:20:05 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:20:20 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:20:21 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1null[Date: Mon, 26 Sep 2022 04:21:01 GMT] "￿" 400
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:21:01 GMT] "PUT /cgi-bin/perl_env?cake=lie&pie=demelio HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:21:16 GMT] "￿" 400
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:21:16 GMT] "PUT /cgi-bin/perl_env?cake=lie&pie=demelio HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:21:17 GMT] "￿" 400
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:21:17 GMT] "PUT /cgi-bin/perl_env?cake=lie&pie=demelio HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:21:18 GMT] "￿" 400
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:21:18 GMT] "PUT /cgi-bin/perl_env?cake=lie&pie=demelio HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1null[Date: Mon, 26 Sep 2022 04:22:09 GMT] "￿" 400
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:22:09 GMT] "PUT /cgi-bin/perl_env?cake=lie&pie=demelio HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:22:13 GMT] "￿" 400
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:22:14 GMT] "PUT /cgi-bin/perl_env?cake=lie&pie=demelio HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1null[Date: Mon, 26 Sep 2022 04:22:39 GMT] "￿" 400
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:22:39 GMT] "PUT /cgi-bin/perl_env?cake=lie&pie=demelio HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:22:40 GMT] "￿" 400
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:22:40 GMT] "PUT /cgi-bin/perl_env?cake=lie&pie=demelio HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1null[Date: Mon, 26 Sep 2022 04:22:53 GMT] "￿" 400
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:22:53 GMT] "PUT /cgi-bin/perl_env?cake=lie&pie=demelio HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:22:56 GMT] "￿" 400
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:22:56 GMT] "POST /cgi-bin/perl_env?cake=lie&pie=demelio HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:23:05 GMT] "￿" 400
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:23:05 GMT] "POST /cgi-bin/perl_env?cake=lie&pie=demelio HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:23:32 GMT] "￿" 400
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:23:32 GMT] "PUT /cgi-bin/perl_env?cake=lie&pie=demelio HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1null[Date: Mon, 26 Sep 2022 04:24:05 GMT] "￿" 400
-
-0:0:0:0:0:0:0:1 PostmanRuntime/7.29.2[Date: Mon, 26 Sep 2022 04:24:06 GMT] "PUT /cgi-bin/perl_env?cake=lie&pie=demelio HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:25:44 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:25:45 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:34:26 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:34:26 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:35:31 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:35:31 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:36:19 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:36:19 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:48:42 GMT] "GET / HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:48:42 GMT] "GET /js/image-test.js HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:48:43 GMT] "GET /images/sushi.jpg HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:48:43 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:48:44 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:48:44 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:50:55 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:50:56 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:53:55 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:53:55 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:57:31 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:57:31 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:58:34 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 04:58:34 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 05:00:19 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 05:00:19 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 05:00:21 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 05:00:21 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 05:01:30 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 05:01:30 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 05:01:57 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 05:01:58 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 05:02:16 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 05:02:16 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 05:09:30 GMT] "GET /cgi-bin/perl_env HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36[Date: Mon, 26 Sep 2022 05:09:30 GMT] "GET /favicon.ico HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36[Date: Fri, 10 Mar 2023 22:40:25 GMT] "GET / HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36[Date: Fri, 10 Mar 2023 22:40:25 GMT] "GET /js/image-test.js HTTP/1.1" 200
-
-0:0:0:0:0:0:0:1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36[Date: Fri, 10 Mar 2023 22:40:25 GMT] "GET /images/sushi.jpg HTTP/1.1" 200
-

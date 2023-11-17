@@ -16,6 +16,7 @@ public class WebServer {
     HttpRequest request = new HttpRequest();
     ServerSocket server = null;
 
+    System.out.println("Starting WebServer");
     try {
       server = new ServerSocket((httpdConfObj.getPort()));
       server.setReuseAddress(true);
